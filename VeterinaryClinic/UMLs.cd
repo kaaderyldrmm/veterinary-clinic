@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VeterinaryClinic.Models.Hayvan">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABIAAAAAASAgAAFgAAAAAAAYAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Hayvan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VeterinaryClinic.Hayvanlar.Kedi">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAgAAFAAAAAAAAYAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Kedi.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VeterinaryClinic.Hayvanlar.Kopek">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAgAAFAAAAAAAAYAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Models\Kopek.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VeterinaryClinic.Models.Kus">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAgAAFAAAAAAAAIAAACAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Models\Kus.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="VeterinaryClinic.Interfaces.IBakimYapilabilir">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IBakimYapilabilir.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="VeterinaryClinic.Interfaces.IMuayeneEdilebilir">
+    <Position X="9.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Interfaces\IMuayeneEdilebilir.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
